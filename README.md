@@ -1,4 +1,3 @@
-> http://blog.brojie.cn/web/todolist/
 
 # 一、项目初始化
 
